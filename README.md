@@ -18,6 +18,8 @@ $./mybroker/bin/artemis run
  Apache ActiveMQ Artemis 2.17.0
 ```
  Access to console admin page `http://localhost:8161/console`
+ * username=`demo`
+ * password=`demo`
 
 ### 2. Start producer
 ```
